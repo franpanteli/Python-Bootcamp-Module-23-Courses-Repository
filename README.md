@@ -1,6 +1,6 @@
 # Module-23-Courses-Repository
 ### Repository Overview 
-This repository contains my notes and project files for the fourth module of a Python 'bootcamp' I completed as part of my independent learning. This was an in-depth Udemy course with 156 video lectures and exercises, to be completed in a Jupyter environment. This repository includes my notes on the videos for this module and the slides from the lectures which they were made on.
+This repository contains my notes for the twenty-third module of a Python 'bootcamp' I completed as part of my independent learning. This was an in-depth Udemy course with 156 video lectures and exercises, to be completed in a Jupyter environment. This was the final module as part of this 'bootcamp', which included a bonus lecture with links to discount codes for the other courses created by its instructor. 
 
 ### Course Details For "Machine Learning with Python"
 - **Course URL:** [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/#tensorflow)
